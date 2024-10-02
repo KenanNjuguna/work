@@ -1,0 +1,8 @@
+Abstract Classes
+Description:
+An abstract class in PHP is a class that cannot be instantiated on its own and is meant to be extended by other classes. Abstract classes can define both abstract methods (without implementation) and concrete methods (with implementation). Abstract methods must be implemented by any subclass that inherits from the abstract class.
+
+When to Use:
+
+When you want to provide a common base for multiple classes but expect the subclasses to define some specific behavior (abstract methods).
+Useful for defining shared behavior and structure for a group of related classes.
